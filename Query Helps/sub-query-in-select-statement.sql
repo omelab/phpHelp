@@ -7,4 +7,7 @@ FROM `product_categorys`
 WHERE product_categorys_id = 13
 
 
-/* Ref : http://www.expertphp.in/article/laravel-how-to-use-subquery-in-select-statement-with-example */
+/*
+	Ref : http://www.expertphp.in/article/laravel-how-to-use-subquery-in-select-statement-with-example
+ 	Ref : https://itsolutionstuff.com/post/laravel-how-to-make-subquery-in-select-statementexample.html
+*/
