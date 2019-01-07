@@ -1,0 +1,8 @@
+/*
+ * Bootstrap Validator
+ */
+0) https://github.com/1000hz/bootstrap-validator
+1) https://css-tricks.com/form-validation-part-1-constraint-validation-html/
+2) https://html.com/attributes/input-pattern/
+3) https://github.com/1000hz/bootstrap-validator/issues/354 [ dynamic field use $("#form1").validator("update") ]
+ 
