@@ -1,0 +1,3 @@
+-- https://code.tutsplus.com/tutorials/working-with-php-arrays-in-the-right-way--cms-28606
+
+Route::match(['get','post'],'challan-create/{reference}/{reference_id}/{type}','Sales\ChallanController@createChallan')->name('challan-create');
